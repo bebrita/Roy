@@ -1,0 +1,155 @@
+{
+  "ru": {
+    "menu": {
+      "play": "Играть",
+      "settings": "Настройки",
+      "quit": "Выход",
+      "back": "Назад",
+      "save": "Сохранить",
+      "inventory": "Инвентарь",
+      "achievements": "Ачивки"
+    },
+    "stats": {
+      "courage": "Отвага",
+      "ptsd": "ПТСР",
+      "promiscuity": "Блядство",
+      "narcissism": "ЧСВ"
+    },
+    "ui": {
+      "dialog": {
+                "back": "Назад"
+            },
+            "ending": {
+                "title": "КОНЦОВКА",
+                "main_menu": "В главное меню"
+            },
+      "stats_title": "Характеристики",
+      "actions": "Действия",
+      "inventory": "Инвентарь",
+      "settings": "Настройки",
+      "actions_title": "Действия",
+      "inventory_title": "Инвентарь",
+      "title": "Ради страны",
+      "characteristics": "Характеристики",
+      "settings_title": "Настройки",
+      "close": "Закрыть",
+      "save": "Сохранить",
+      "volume": "Громкость",
+      "music_controls": "Управление музыкой",
+      "shuffle": "Перемешать",
+      "prev_track": "Предыдущий трек",
+      "play": "Воспроизвести",
+      "pause": "Пауза",
+      "next_track": "Следующий трек",
+      "current_track": "Текущий трек:",
+      "fullscreen": "Полный экран",
+      "language": "Язык",
+      "on": "Вкл",
+      "off": "Выкл",
+      "resolution": "Разрешение",
+      "apply_changes": "Применить изменения",
+      "reset_defaults": "Сбросить настройки"
+    },
+    "settings": {
+      "music_volume": "Громкость музыки",
+      "sound_volume": "Громкость звуков",
+      "fullscreen": "Полный экран",
+      "language": "Язык",
+      "resolution": "Разрешение",
+      "text_speed": "Скорость текста",
+      "on": "вкл",
+      "off": "выкл"
+    },
+    "settings_manager": {
+      "file_not_found": "Файл настроек не найден",
+      "load_success": "Настройки успешно загружены",
+      "load_error_json": "Ошибка чтения файла настроек (неверный формат)",
+      "load_error_io": "Ошибка чтения файла настроек",
+      "save_success": "Настройки успешно сохранены",
+      "save_error": "Ошибка сохранения настроек",
+      "reset_success": "Настройки сброшены к значениям по умолчанию"
+    }
+  },
+  "en": {
+    "menu": {
+      "play": "Play",
+      "settings": "Settings",
+      "quit": "Quit",
+      "back": "Back",
+      "save": "Save",
+      "inventory": "Inventory",
+      "achievements": "Achievements"
+    },
+    "stats": {
+      "courage": "Courage",
+      "ptsd": "PTSD",
+      "promiscuity": "Promiscuity",
+      "narcissism": "Narcissism"
+    },
+    "ui": {
+      "ui": {
+            "dialog": {
+                "back": "Back"
+            },
+            "ending": {
+                "title": "ENDING",
+                "main_menu": "To Main Menu"
+            }
+        },
+      "stats_title": "Stats",
+      "actions": "Actions",
+      "inventory": "Inventory",
+      "settings": "Settings",
+      "actions_title": "Actions",
+      "inventory_title": "Inventory",
+      "title": "For the sake of the country",
+      "characteristics": "Characteristics",
+      "settings_title": "Settings",
+      "close": "Close",
+      "save": "Save",
+      "volume": "Volume",
+      "music_controls": "Music Controls",
+      "shuffle": "Shuffle",
+      "prev_track": "Previous Track",
+      "play": "Play",
+      "pause": "Pause",
+      "next_track": "Next Track",
+      "current_track": "Now Playing:",
+      "fullscreen": "Fullscreen",
+      "language": "Language",
+      "on": "On",
+      "off": "Off",
+      "resolution": "Resolution",
+      "apply_changes": "Apply Changes",
+      "reset_defaults": "Reset Defaults"
+    },
+    "music": {
+      "folder_created": "Folder {folder} created. Add music files to it.",
+      "no_tracks": "No supported audio files found in the folder.",
+      "loaded": "Loaded {count} tracks to playlist.",
+      "load_error": "Music loading error: {error}",
+      "empty_playlist": "No tracks to play.",
+      "now_playing": "Now playing: {track}",
+      "play_error": "Playback error: {error}"
+    },
+    "settings": {
+      "music_volume": "Music Volume",
+      "sound_volume": "Sound Volume",
+      "fullscreen": "Fullscreen",
+      "language": "Language",
+      "resolution": "Resolution",
+      "text_speed": "Text Speed",
+      "on": "on",
+      "off": "off"
+    },
+    "settings_manager": {
+      "file_not_found": "Settings file not found",
+      "load_success": "Settings loaded successfully",
+      "load_error_json": "Error reading settings file (invalid format)",
+      "load_error_io": "Error reading settings file",
+      "save_success": "Settings saved successfully",
+      "save_error": "Error saving settings",
+      "reset_success": "Settings reset to default values"
+    }
+  }
+}
